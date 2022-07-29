@@ -1,0 +1,46 @@
+#nav1 {
+    background-color: #05386B;
+    text-align: center;
+    padding: 20px 20px;
+    border: solid white;
+    color: white;
+    display: block;
+}
+
+#divtag {
+    text-align: center;
+    padding: 20px 20px;
+}
+
+#inp1 {
+    width: 200px;
+    height: 27px;
+    font-size: x-large;
+    margin-right: 10px;
+    border: solid black;
+}
+
+#but1 {
+    border: solid white;
+    background-color: #05386B;
+    color: white;
+}
+
+#task {
+    text-align: center;
+    background-color: #05386B;
+    border: solid white;
+    border-bottom: 5px;
+    color: white;
+}
+
+#task1 {
+    text-align: center;
+    background-color: #05386B;
+    border: solid white;
+    color: white;
+}
+
+body {
+    background-color: #5CDB95;
+}
